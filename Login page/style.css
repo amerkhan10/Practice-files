@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+
+
+
+
+
+body {
+    width: 500px;
+    height: 100px;
+    margin-bottom: 500px;
+    background-image: url('https://img.freepik.com/premium-photo/blue-shades-lake-mountains-landscape-nature-background_1234738-236399.jpg?semt=ais_hybrid');
+    background-size: 200vh;
+    background-position: center;
+    overflow: hidden;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.login {
+    background-color: rgba(240, 233, 247, 0.801);
+    font-family: "Outfit", sans-serif;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+
+.login {
+    text-align: center;
+    height: 280px;
+    width: 400px;
+    box-sizing: border-box;
+    margin-left: 450px;
+    margin-top: 150px;
+    box-shadow: 0 0 10px rgba(2, 34, 65, 0.767);
+    border-radius: 10px;
+    padding: 20px
+}
+
+p {
+    font-family: "Outfit", sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+    box-sizing: border-box;
+    margin-left: 30px;
+    box-sizing: border-box;
+}
+
+.login2 {
+    margin-top: -1px;
+
+}
+
+.input-group label {
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.input-group input {
+    padding: 3px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 20px;
+    font-size: small;
+    /* font-weight: bold; */
+    background-color: rgba(255, 255, 255, 0.288);
+}
+
+.submit-btn {
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-left: 40px;
+    width: 100px;
+    height: 30px;
+    border: 0px solid black;
+    border-radius: 5px;
+}
+
+.submit-btn {
+    font-family: "Outfit", sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    width: 25%;
+    margin-left: 35px;
+    padding: 1px;
+    background-color: #5cc05f;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.submit-btn :hover {
+    background-color: #188f1c;
+    box-shadow: rgba(0, 0, 0, 0.377);
+    cursor: pointer;
+}
+
